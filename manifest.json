@@ -1,8 +1,7 @@
 {
-  "version": "2.1",
-  "buildDate": "2026-07-29",
-  "notes": "What changed in this release — shown to users in the update dialog.",
-  "downloadUrl": "https://github.com/jkhoob/matrix-releases/releases/download/v2.1/Matrix-v2.1.dmg",
+  "version": "2.1.1",
+  "buildDate": "2026-07-22",
+  "notes": "New app icon, native menu bar, application log, update system.",
+  "downloadUrl": "https://github.com/jkhoob/matrix-releases/releases/download/v2.1.1/Matrix-v2.1.1.dmg",
   "minVersion": ""
 }
-
