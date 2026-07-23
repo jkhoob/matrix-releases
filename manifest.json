@@ -1,7 +1,8 @@
 {
-  "version": "2.0",
-  "buildDate": "2026-07-22",
-  "notes": "Initial v2.0 release.",
-  "downloadUrl": "https://github.com/jkhoob/matrix-releases/releases/download/v2.0/Matrix-2.0.dmg",
+  "version": "2.1",
+  "buildDate": "2026-07-29",
+  "notes": "What changed in this release — shown to users in the update dialog.",
+  "downloadUrl": "https://github.com/jkhoob/matrix-releases/releases/download/v2.1/Matrix-v2.1.dmg",
   "minVersion": ""
 }
+
