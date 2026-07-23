@@ -1,7 +1,10 @@
 {
-  "version": "2.1.1",
-  "buildDate": "2026-07-22",
-  "notes": "New app icon, native menu bar, application log, update system.",
-  "downloadUrl": "https://github.com/jkhoob/matrix-releases/releases/download/v2.1.1/Matrix-v2.1.1.dmg",
-  "minVersion": ""
+  "version": "2.1.2",
+  "releaseNotes": "New icon, styled DMG, Windows support",
+  "downloads": {
+    "osx-arm64": "https://github.com/.../Matrix-2.1.2-arm64.dmg",
+    "osx-x64":   "https://github.com/.../Matrix-2.1.2-x64.dmg",
+    "win-x64":   "https://github.com/.../Matrix-2.1.2-win-x64.zip"
+  }
 }
+
